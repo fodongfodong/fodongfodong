@@ -1,16 +1,9 @@
 
-**fodongfodong/fodongfodong is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 🍊Hi dude!! </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<span> 💌 Contact : whdtjr2529@naver.com </span> <br>
+<span> 🔎 천천히 걸어가는 개발자 박종석입니다. </span> <br>
+<span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20JS_PARK&fontSize=90)
 <div>
@@ -19,9 +12,13 @@ Here are some ideas to get you started:
 
 
 
+
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=fodongfodong&show_icons=true"&theme=transparent /></a>&nbsp 
+<img src="https://github-readme-stats.vercel.app/api?username=fodongfodong&show_icons=true&theme=radical"
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fodongfodong&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -36,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><br>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white">
   
   
   
