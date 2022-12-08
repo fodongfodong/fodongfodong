@@ -12,7 +12,7 @@
 
 
 
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffodongfodong%2Ffodongfodong.git&count_bg=%23DF7474&title_bg=%23E7A0DE&icon=apple.svg&icon_color=%23E7E7E7&title=today%2Ftotal&edge_flat=false"/></a>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=fodongfodong&show_icons=true&theme=radical"
 </p>
