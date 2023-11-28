@@ -1,5 +1,5 @@
 
-<h2> 🍊Hi dude!! </h2>
+<h2> 🍊Hi </h2>
 
 <span> 💌 Contact : whdtjr2529@naver.com </span> <br>
 <span> 🔎 천천히 걸어가는 개발자 박종석입니다. </span> <br>
