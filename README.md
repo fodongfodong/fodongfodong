@@ -1,9 +1,6 @@
 
 <h2> 🍊Hi </h2>
 
-<span> 💌 Contact : whdtjr2529@naver.com </span> <br>
-<span> 🔎 천천히 걸어가는 개발자 박종석입니다. </span> <br>
-<span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20JS_PARK&fontSize=90)
 <div>
